@@ -21,7 +21,7 @@
     "@parcel/transformer-sass": "^2.3.2",
     "@parcel/transformer-webmanifest": "^2.3.2",
     "@types/editorjs__header": "^2.6.0",
-    "@types/pdfmake": "^0.1.20",
+    "@types/pdfmake": "^0.1.21",
     "@types/xxhashjs": "^0.2.2",
     "autoprefixer": "^10.4.2",
     "browserslist": "^4.20.0",
