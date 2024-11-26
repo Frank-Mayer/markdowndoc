@@ -39,7 +39,7 @@
     "@editorjs/marker": "^1.2.2",
     "@editorjs/nested-list": "^1.0.2",
     "@editorjs/quote": "^2.4.0",
-    "@frank-mayer/magic": "^1.9.1",
+    "@frank-mayer/magic": "^2.0.1",
     "editorjs-table": "^1.4.10",
     "idb": "^7.0.0",
     "pdfmake": "^0.2.4",
