@@ -41,7 +41,7 @@
     "@editorjs/quote": "^2.4.0",
     "@frank-mayer/magic": "^1.9.1",
     "editorjs-table": "^1.4.10",
-    "idb": "^7.0.0",
+    "idb": "^7.0.1",
     "pdfmake": "^0.2.4",
     "simple-image-editorjs": "^1.4.0",
     "xxhashjs": "^0.2.2"
